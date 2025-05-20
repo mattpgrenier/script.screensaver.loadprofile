@@ -1,0 +1,5 @@
+<settings>
+    <category label="Profile Switcher">
+        <setting id="profilename" type="text" label="Profile Name" default="" />
+    </category>
+</settings>

@@ -1,0 +1,15 @@
+
+#. Setting name for edit screen dim in percentage (0% = black, 100% = no dim)
+msgctxt "#30000"
+msgid "Profile Name"
+msgstr "Profile Name"
+
+#. Setting help text
+msgctxt "#30001"
+msgid "Name of the profile to be loaded at the end of the screensaver wait time. The target profile must have Profile Lock disabled."
+msgstr "Name of the profile to be loaded at the end of the screensaver wait time. The target profile must have Profile Lock disabled."
+
+#. Setting category name
+msgctxt "#30002"
+msgid "Preferences"
+msgstr "Preferences"
